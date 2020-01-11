@@ -5,6 +5,7 @@
 5.Click on Attendance Sheet to view current date attendance sheet.
 
 
-Note:1. Please download libraries accordingly by opening python file : tkinter,firebase,numpy,pillow,xlwrite,opencv3.4
-
-     2. Run it using python 3.6
+Note:
+1. Please download libraries accordingly by opening python file :
+     tkinter, firebase, numpy, pillow, xlwrite, opencv3.4
+2. Run it using python 3.6
